@@ -1,0 +1,12 @@
+@font-face {
+    font-family:Philosopher-Italic  ;
+    src: url(./text-family/Philosopher/Philosopher-Italic.ttf);
+}
+@font-face {
+    font-family:Roboto-LightItalic ;
+    src: url(./text-family/Roboto/Roboto-LightItalic.ttf);
+}
+@font-face {
+    font-family:Roboto-BoldItalic ;
+    src: url(./text-family/Roboto/Roboto-BoldItalic.ttf);
+}
